@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+data/*.json
+data/session-secret.key
+
+*.log
+server.log
+
+public/test-speed.html
+
+.DS_Store
+*.backup
